@@ -1,0 +1,10 @@
+C:\Users\thepp\source\repos\TestConnectionSerial\TestConnectionSerial\bin\Debug\TestConnectionSerial.exe.config
+C:\Users\thepp\source\repos\TestConnectionSerial\TestConnectionSerial\bin\Debug\TestConnectionSerial.exe
+C:\Users\thepp\source\repos\TestConnectionSerial\TestConnectionSerial\bin\Debug\TestConnectionSerial.pdb
+C:\Users\thepp\source\repos\TestConnectionSerial\TestConnectionSerial\obj\Debug\TestConnectionSerial.csprojAssemblyReference.cache
+C:\Users\thepp\source\repos\TestConnectionSerial\TestConnectionSerial\obj\Debug\TestConnectionSerial.Properties.Resources.resources
+C:\Users\thepp\source\repos\TestConnectionSerial\TestConnectionSerial\obj\Debug\TestConnectionSerial.csproj.GenerateResource.cache
+C:\Users\thepp\source\repos\TestConnectionSerial\TestConnectionSerial\obj\Debug\TestConnectionSerial.csproj.CoreCompileInputs.cache
+C:\Users\thepp\source\repos\TestConnectionSerial\TestConnectionSerial\obj\Debug\TestConnectionSerial.exe
+C:\Users\thepp\source\repos\TestConnectionSerial\TestConnectionSerial\obj\Debug\TestConnectionSerial.pdb
+C:\Users\thepp\source\repos\TestConnectionSerial\TestConnectionSerial\obj\Debug\TestConnectionSerial.MainWindow.resources
